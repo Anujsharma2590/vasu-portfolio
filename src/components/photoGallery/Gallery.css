@@ -1,0 +1,4 @@
+.img-container {
+  border: 3px solid var(--title-color);
+  border-radius: 5px;
+}
